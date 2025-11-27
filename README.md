@@ -68,7 +68,7 @@ I love building meaningful, user-centered, and data-driven solutions, especially
   <a href="https://www.instagram.com/yosseer_fhaal/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="[YOUR_LINKEDIN_HERE](https://www.linkedin.com/in/yosser-fhal-3a57411b4/)">
+  <a href="https://www.linkedin.com/in/yosser-fhal-3a57411b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
