@@ -77,4 +77,8 @@ I love building meaningful, user-centered, and data-driven solutions, especially
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
+<typing-effect data-lines='["I love connecting with different people so if you want to say hi", "i'll be happy to meet you more! "]'>
+  <span data-target="typing-effect.content"></span>
+  <span data-target="typing-effect.cursor">|</span>
+</typing-effect>
 
