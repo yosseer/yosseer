@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://github.com/DenverCoder1/readme-typing-svg/blob/main/demo/typing-svg-demo.gif" alt="Typing SVG" />
 </p>
-
-<h1 align="center">Hi there, I'm <span style="color:#6C63FF;">Yosser Fhal</span> 👋</h1>
+<h1 align="center">Hi there, I'm <span style="color:#800080;">Yosser Fhal</span> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h1>
 
 <p align="center">
   <em>IT & Business Analytics Student • FinTech & Blockchain Enthusiast </em>
@@ -73,5 +72,9 @@ I love building meaningful, user-centered, and data-driven solutions, especially
   </a>
 </p>
 <p align="center">
+<img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+</p>
+<p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
+
