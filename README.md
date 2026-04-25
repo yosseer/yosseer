@@ -10,35 +10,35 @@
 
 ---
 
-## 🌟 About Me
+##  About Me
 
 I'm a passionate **IT & Business Analytics student** driven by the intersection of **technology, finance, and innovation**.  
 I love building meaningful, user-centered, and data-driven solutions, especially in **FinTech**, **blockchain**, and **smart digital systems**.
 
-💡 What drives me?  
+ What drives me?  
 **Curiosity, creativity, and the joy of turning ideas into products people love and trust.**
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
-- 🧠 **Build smart digital experiences** (Web, Mobile, Data)  
-- 🔗 Develop blockchain-powered solutions & explore Web3 concepts  
-- 🔐 Build secure backend systems using JWT, RBAC, REST APIs  
-- 📊 Turn data into insights using analytics & predictive models  
-- 💻 Work with: Python, Kotlin, React, SQL, Java, Flask, Firebase, and more  
-- 📈 Interested in FinTech automation, trust systems, and product strategy  
+-  **Build smart digital experiences** (Web, Mobile, Data)  
+-  Develop blockchain-powered solutions & explore Web3 concepts  
+-  Build secure backend systems using JWT, RBAC, REST APIs  
+-  Turn data into insights using analytics & predictive models  
+-  Work with: Python, Kotlin, React, SQL, Java, Flask, Firebase, and more  
+-  Interested in FinTech automation, trust systems, and product strategy  
 
 ---
 
-## 🎯 Currently Exploring
+##  Currently Exploring
 - **Blockchain frameworks** & smart contract design  
 - **FinTech systems**: trust, automation, transparency  
 - **Product Management**: strategy, user-story building, roadmapping
   
 ---
 
-## 📊 GitHub Stats & Insights
+##  GitHub Stats & Insights
 
 <div align="center">
 
@@ -50,7 +50,7 @@ I love building meaningful, user-centered, and data-driven solutions, especially
 
 ---
 
-## 🧩 Tech Stack
+##  Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,kotlin,react,js,nodejs,flask,mongodb,firebase,git,github,linux,html,css,docker" />
@@ -58,7 +58,7 @@ I love building meaningful, user-centered, and data-driven solutions, especially
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="https://www.facebook.com/yosser.fhal/">
