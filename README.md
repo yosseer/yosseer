@@ -86,12 +86,9 @@ Built an Android app that brings student services together, using **Kotlin** and
 
 `Kotlin` `Firebase` `Android`
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=yosseer&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800" alt="GitHub activity stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yosseer&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;cache_seconds=1800" alt="Most used languages on GitHub">
-</div>
+[View my contributions on GitHub](https://github.com/yosseer#year-list-container)
 
 <br>
 
